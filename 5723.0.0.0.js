@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[5723],{75723:(s,a,e)=>{e.r(a),e.d(a,{default:()=>u});var r=e(95899),c=e(31085);function u({className:s="",url:a,iframeParams:e={}}){return(0,c.jsx)("iframe",Object.assign({className:`sq-iframe ${s}`,src:a},e))}u.propTypes={className:r.P.string,url:r.P.string}}}]);
