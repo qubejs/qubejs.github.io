@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4740],{64740:(s,e,a)=>{a.r(e),a.d(e,{default:()=>n});var l=a(95899),c=a(31085);const n=({value:s,className:e,dom:a={}})=>(0,c.jsx)("label",Object.assign({className:`${e}`},a,{children:s}));n.propTypes={children:l.P.node,className:l.P.string}}}]);
